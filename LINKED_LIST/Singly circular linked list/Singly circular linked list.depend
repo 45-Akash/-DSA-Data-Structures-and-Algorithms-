@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627624950 source:a:\b.tech 2nd year sem ii\data structure\data structure .c files\singly circular linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+
