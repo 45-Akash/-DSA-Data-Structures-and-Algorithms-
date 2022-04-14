@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623227954 source:a:\b.tech 2nd year sem ii\data structure\data structure .c files\postfix expression evaluation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
