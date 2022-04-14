@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624008771 source:a:\b.tech 2nd year sem ii\data structure\data structure .c files\implement circular queue\main.c
+	<stdio.h>
+	<stdlib.h>
+
